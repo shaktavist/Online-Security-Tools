@@ -5,10 +5,12 @@
 <p>&nbsp;</p>
 <p><strong>Analysis Tools</strong></p>
 <ul>
-<li><a href="https://virustotal.com/">Virus Total</a>&nbsp;- Analyze suspicious files and URLs to detect types of malware, automatically share them with the security community</li>
-<li><a href="https://phishcheck.me/">Phish Check</a>&nbsp;- Find out what is behind the URL</li>
-<li><a href="https://urlscan.io/">URL Scan</a>&nbsp;- Website scanner for suspicious and malicious URL's</li>
-<li><a href="https://app.any.run/">Any Run</a>&nbsp;- Cloud-based malware analysis service. Analyze suspicious and malicious activities using our innovative tools.</li>
-<li><a href="https://www.hybrid-analysis.com/">Hybrid Analysis</a>&nbsp;- Submit malware for free analysis with Falcon Sandbox and Hybrid Analysis technology.&nbsp;</li>
-<li><a href="https://www.joesandbox.com/#windows">Joes Sandbox</a>&nbsp;- Detects and analyzes potential malicious files and URLs on multiple platforms</li>
+<li><a title="Virus Total" href="https://www.virustotal.com/gui/home/url" target="_blank">Virus Total&nbsp;</a>- Analyze suspicious files and URLs to detect types of malware, automatically share them with the security community</li>
+<li><a href="https://phishcheck.me/" target="_blank">Phish Check</a>&nbsp;- Find out what is behind the URL</li>
+<li><a href="https://urlscan.io/" target="_blank">URL Scan&nbsp;</a>- Website scanner for suspicious and malicious URL's</li>
+<li><a href="https://app.any.run/" target="_blank">Any Run</a>&nbsp;- Cloud-based malware analysis service. Analyze suspicious and malicious activities using our innovative tools.</li>
+<li><a href="https://www.hybrid-analysis.com/" target="_blank">Hybrid Analysis</a>&nbsp;- Submit malware for free analysis with Falcon Sandbox and Hybrid Analysis technology.&nbsp;</li>
+<li><a href="https://www.joesandbox.com/#windows" target="_blank">Joes Sandbox</a>&nbsp;- Detects and analyzes potential malicious files and URLs on multiple platforms</li>
+<li><a href="https://securitytrails.com/dns-trails" target="_blank">Security Trials</a> -&nbsp;Allows you to search complete data for current and historical mapping of internet assets.</li>
+<li><a href="https://hostingchecker.com/" target="_blank">Hosting Checker</a> -&nbsp;Find out who is hosting any website</li>
 </ul>
