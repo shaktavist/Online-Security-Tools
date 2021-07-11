@@ -1,3 +1,4 @@
+<h2><strong>HackerJacker</strong></h2>
 <p>HackerJacker is primarily a collection of online tools and services that provide analysis of malicious content and threat intelligence for incident response.&nbsp; This has gradually developed to include other information security material.</p>
 <p>The idea originally started off as a reference point for myself at work, I wanted to have an organised way of validating threats and the ability to have this available in one view really made things easier.</p>
 <p>Having seen the benefits, I decided to share this as reference material and really hope this can be of benefit to IT admins and security folks everywhere.</p>
