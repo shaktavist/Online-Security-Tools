@@ -1,7 +1,7 @@
 <h2 dir="auto"><strong>HackerJacker</strong></h2>
 <p dir="auto">HackerJacker is primarily a collection of online tools and services that provide analysis of malicious content and threat intelligence for incident response. This has gradually developed to include other information security material.</p>
 <p dir="auto">The idea originally started off as a reference point for myself at work, I wanted to have an organised way of validating threats and the ability to have this available in one view really made things easier.</p>
-<p dir="auto">Having seen the benefits, I decided to share this as reference material and really hope this can be of benefit to IT admins and security folks everywhere.</p>
+<p dir="auto">Having seen the benefits, I decided to share this as reference material and really hope this can be of benefit to IT admins and<a href="https://www.linkedin.com/help/linkedin/ask/TS-RPS" target="_blank">LinkedIn</a> security folks everywhere.</p>
 <p dir="auto"><strong>Analysis Tools</strong></p>
 <ul dir="auto">
 <li><a title="Virus Total" href="https://www.virustotal.com/gui/home/url" target="_blank" rel="nofollow">Virus Total&nbsp;</a>- Analyze suspicious files and URLs to detect types of malware, automatically share them with the security community</li>
@@ -19,9 +19,27 @@
 <li><a href="https://ransomwhe.re/" target="_blank">Ransomwhere</a>&nbsp;-&nbsp;Ransomwhere is the open, crowdsourced ransomware payment tracker.</li>
 <li><a href="https://id-ransomware.malwarehunterteam.com/" target="_blank">ID Ransomware</a>&nbsp;-&nbsp;Upload a ransom note and/or sample encrypted file to identify the ransomware that has encrypted your data.</li>
 <li><a href="https://noransom.kaspersky.com/" target="_blank">Kapersky Ransomware Tools</a>&nbsp;- Find the latest decryptors, ransomware removal tools, and information on ransomware protection.</li>
-<li><a href="https://www.nomoreransom.org/crypto-sheriff.php" target="_blank">No More Ransom</a>&nbsp;-&nbsp;- Check for decryptors and ransomware removal tools.</li>
+<li><a href="https://www.nomoreransom.org/crypto-sheriff.php" target="_blank">No More Ransom</a>&nbsp;- Check for decryptors and ransomware removal tools.</li>
 <li><a href="https://www.avast.com/ransomware-decryption-tools#pc" target="_blank">Avast Ransomware Tools</a>&nbsp;- Check for ransomware decryptors.</li>
 <li><a href="https://www.mcafee.com/enterprise/en-us/downloads/free-tools.html" target="_blank">Mcafee Anti Malware Tools</a>&nbsp;- Free McAfee tools to aid in your security protection.</li>
 </ul>
-<p>&nbsp;</p>
-<p><br /><br /></p>
+<p><strong>Report a Security issue</strong></p>
+<ul>
+<li><a href="https://www.du.ae/surfsafely" target="_blank">DU</a>&nbsp;- Block or Unblock a website.</li>
+<li><a href="https://www.etisalat.ae/en/generic/contactus-forms/web-block-unblockn.jsp" target="_blank">Etisalat</a>&nbsp;- Block or Unblock a website.</li>
+<li><a href="https://www.dubaipolice.gov.ae/wps/portal/home/services/individualservices/cybercrimeService?firstView=true" target="_blank">Dubai Police</a>&nbsp;- Report ecrime to Dubai Police.</li>
+<li><a href="https://www.amazon.com/gp/help/customer/display.html?ie=UTF8&amp;nodeId=201909140" target="_blank">Amazon</a>&nbsp;- Report a security issue to Amazon.</li>
+<li><a href="https://support.apple.com/en-us/HT201221" target="_blank">Apple</a>&nbsp;- Report a security issue to Apple.</li>
+<li><a href="https://www.barracudacentral.org/report" target="_blank">Barracuda</a>&nbsp;- Report a security issue to Barracuda.</li>
+<li><a href="https://safebrowsing.google.com/safebrowsing/report_phish/?hl=en" target="_blank">Google</a>&nbsp;- Report website to Google.</li>
+<li><a href="https://www.microsoft.com/en-us/wdsi/support/report-unsafe-site-guest" target="_blank">Microsoft</a>&nbsp;- Report unsafe site or malware threat to Microsoft.</li>
+<li><a href="https://www.cisa.gov/uscert/report" target="_blank">CISA</a>&nbsp;- Report Incidents, Phishing, Malware, or Vulnerabilities.</li>
+</ul>
+<p><strong>Report Social Media Abuse</strong></p>
+<ul>
+<li><a href="https://www.facebook.com/help/contact/169486816475808" target="_blank">Facebook</a>&nbsp;- Report an impostor account.</li>
+<li><a href="https://help.instagram.com/370054663112398" target="_blank">Instagram</a>&nbsp;- Report impersonation.</li>
+<li><a href="https://www.linkedin.com/help/linkedin/ask/TS-RPS" target="_blank">LinkedIn</a>&nbsp;- Report possible scam.</li>
+<li><a href="https://help.twitter.com/en/forms/authenticity/impersonation" target="_blank">Twitter</a>&nbsp;- Report a possible scam.</li>
+<li><a href="https://support.google.com/youtube/answer/2802027?hl=en&amp;co=GENIE.Platform%3DAndroid" target="_blank">Youtube</a>&nbsp;- Report inappropriate content.</li>
+</ul>
