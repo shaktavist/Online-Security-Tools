@@ -1,7 +1,8 @@
-<h2 dir="auto"><strong>HackerJacker</strong></h2>
-<p dir="auto">HackerJacker (<a href="https://www.hackerjacker.net">https://www.hackerjacker.net</a>)&nbsp;is primarily a collection of online tools and services that provide analysis of malicious content and threat intelligence for incident response. This has gradually developed to include other information security material.</p>
+<h2 dir="auto"><strong>HackerJacker - Collection of Online Security Tools</strong></h2>
+<p dir="auto"><a href="https://www.hackerjacker.net" target="_blank">HackerJacker</a>&nbsp;is primarily a collection of online tools and services that provide analysis of malicious content and threat intelligence for incident response. This has gradually developed to include other information security material.</p>
 <p dir="auto">The idea originally started off as a reference point for myself at work, I wanted to have an organised way of validating threats and the ability to have this available in one view really made things easier.</p>
 <p dir="auto">Having seen the benefits, I decided to share this as reference material and really hope this can be of benefit to IT admins and&nbsp;security folks everywhere.</p>
+<p dir="auto">Disclaimer:&nbsp; When doing analysis of URLs and Files do not copy paste or upload sensitive data as some of these websites may store historic data analysis.</p>
 <p dir="auto">&nbsp;</p>
 <p dir="auto"><strong>Analysis Tools</strong></p>
 <ul dir="auto">
