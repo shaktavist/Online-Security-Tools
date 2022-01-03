@@ -4,7 +4,7 @@
 <p dir="auto">Having seen the benefits, I decided to share this as reference material and really hope this can be of benefit to IT admins and security folks everywhere.</p>
 <p dir="auto"><strong>Analysis Tools</strong></p>
 <ul dir="auto">
-<li><a title="Virus Total" href="https://www.virustotal.com/gui/home/url" target="_blank" rel="nofollow">Virus Total&nbsp;</a>- Analyze suspicious files and URLs to detect types of malware, automatically share them with the security community.</li>
+<li><a title="Virus Total" href="https://www.virustotal.com/gui/home/url" target="_blank" rel="nofollow">Virus Total&nbsp;</a>- Analyze suspicious files and URLs to detect types of malware, automatically share them with the security community</li>
 <li><a href="https://phishcheck.me/" target="_blank" rel="nofollow">Phish Check</a>&nbsp;- Find out what is behind the URL.</li>
 <li><a href="https://urlscan.io/" target="_blank" rel="nofollow">URL Scan&nbsp;</a>- Website scanner for suspicious and malicious URL's.</li>
 <li><a href="https://app.any.run/" target="_blank" rel="nofollow">Any Run</a>&nbsp;- Cloud-based malware analysis service. Analyze suspicious and malicious activities using our innovative tools.</li>
@@ -23,3 +23,5 @@
 <li><a href="https://www.avast.com/ransomware-decryption-tools#pc" target="_blank">Avast Ransomware Tools</a>&nbsp;- Check for ransomware decryptors.</li>
 <li><a href="https://www.mcafee.com/enterprise/en-us/downloads/free-tools.html" target="_blank">Mcafee Anti Malware Tools</a>&nbsp;- Free McAfee tools to aid in your security protection.</li>
 </ul>
+<p>&nbsp;</p>
+<p><br /><br /></p>
