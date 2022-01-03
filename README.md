@@ -36,6 +36,7 @@
 <li><a href="https://safebrowsing.google.com/safebrowsing/report_phish/?hl=en" target="_blank">Google</a>&nbsp;- Report website to Google.</li>
 <li><a href="https://www.microsoft.com/en-us/wdsi/support/report-unsafe-site-guest" target="_blank">Microsoft</a>&nbsp;- Report unsafe site or malware threat to Microsoft.</li>
 <li><a href="https://www.cisa.gov/uscert/report" target="_blank">CISA</a>&nbsp;- Report Incidents, Phishing, Malware, or Vulnerabilities.</li>
+<li><a href="https://www.europol.europa.eu/report-a-crime/report-cybercrime-online" target="_blank">Europol</a>&nbsp;- Report cybercrime to various countries.</li>
 </ul>
 <p><strong>Report Social Media Abuse</strong></p>
 <ul>
