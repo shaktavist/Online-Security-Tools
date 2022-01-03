@@ -16,7 +16,7 @@
 <p><strong>Ransomware Check</strong></p>
 <ul>
 <li><a href="https://ransom.wiki/" target="_blank">Ransom Wiki&nbsp;</a>&nbsp;- Check if your company or partner is in a (known) ransom attack breach</li>
-<li><a href="https://ransomwhe.re/" target="_blank">Ransomwhe.re</a>&nbsp;-&nbsp;Ransomwhere is the open, crowdsourced ransomware payment tracker</li>
+<li><a href="https://ransomwhe.re/" target="_blank">Ransomwhere</a>&nbsp;-&nbsp;Ransomwhere is the open, crowdsourced ransomware payment tracker</li>
 <li><a href="https://id-ransomware.malwarehunterteam.com/" target="_blank">ID Ransomware</a>&nbsp;-&nbsp;Upload a ransom note and/or sample encrypted file to identify the ransomware that has encrypted your data</li>
 <li><a href="https://noransom.kaspersky.com/" target="_blank">Kapersky Ransomware Tools</a>&nbsp;- Find the latest decryptors, ransomware removal tools, and information on ransomware protection</li>
 <li><a href="https://www.nomoreransom.org/crypto-sheriff.php" target="_blank">No More Ransom</a>&nbsp;-&nbsp;- Check for decryptors and ransomware removal tools</li>
